@@ -4,14 +4,7 @@
 
 <p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/a315c0e3ae8e497400ab0.jpg" width="400"></a></p>
 
-<p align="center">
-    <a href="https://app.codacy.com/manual/TeamArcanine/ShinekaVerify/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/TeamArcanine/ShinekaVerify"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/Rocks-VerificationBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TeamArcanine/ShinekaVerify/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/Rocks-VerificationBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TeamArcanine/ShinekaVerify/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/Rocks-VerificationBot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TeamArcanine/ShinekaVerify/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/Rocks-VerificationBot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+
 
 > ⭐️ Thanks to everyone for using, That is the greatest pleasure we have !
 
