@@ -9,7 +9,7 @@ import asyncio
 from configs import Config
 from pyrogram import Client, filters
 from pyrogram.errors import UserNotParticipant
-from rocks.markup_maker import MakeCaptchaMarkup
+from ShinekaVerify.markup_maker import MakeCaptchaMarkup
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message, CallbackQuery, ChatPermissions
 
 CaptchaBot = Client(
