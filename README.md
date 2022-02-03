@@ -2,13 +2,13 @@
 
 <h4 align="center">": "A Telegram Bot for verifying new group members by Emojis Captcha. Made by [Shineka](t.me/Diputeam) <br> ... Written By Shineka ...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/a315c0e3ae8e497400ab0.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Diputeam"><img src="https://te.legra.ph/file/14df9904cf2b039c2fa61.jpg" width="400"></a></p>
 
 
 
 > ⭐️ Thanks to everyone for using, That is the greatest pleasure we have !
 
-## Avaiilable on Telegram as [@Shinekabot](https://t.me/Diputeam)
+## Avaiilable on Telegram as [@Shinekabot](https://t.me/Diputeam) 
 
 ## ✨ Easy To Deploy Direct In Repo✨
 
